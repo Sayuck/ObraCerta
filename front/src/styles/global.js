@@ -13,6 +13,18 @@ export default createGlobalStyle`
         margin: 0 auto;
         padding: 0px 15px;
     }
+    #carrossel{
+        background-color:#ECF0F1;
+        border-radius: 25px;
+        margin:15px 0px;
+        box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+        padding:10px;
+
+        h2{
+            text-align: center;
+            padding-bottom: 10px;
+        }
+    }
     main {
         min-height: calc(100vh - 150px); //Altura total - Footer
         margin: auto;
