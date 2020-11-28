@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Home from '../pages/Home';
 import Cadastro from '../pages/Cadastro';
 import Login from '../pages/Login';
+import Listagem from '../pages/Listagem';
 
 import TermosDeUsuario from '../pages/TermosDeUsuario';
 import PerfilUsuario from '../pages/PerfilUsuario';
@@ -48,6 +49,12 @@ class Routes extends Component {
                         exact path="/"
                         render={props => (
                             <Home {...props} loggedIn={this.state.loggedIn} />
+                        )}
+                    />
+                    <Route
+                        exact path="/Listagem"
+                        render={props => (
+                            <Listagem {...props} loggedIn={this.state.loggedIn} />
                         )}
                     />
                     <Route

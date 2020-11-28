@@ -46,6 +46,8 @@ class Home extends Component {
         axios.get(url_search)
         .then((response) => {
             console.log(response)
+            const data = response.data
+            this.props.history.push('/Listagem',data);
         })
         .catch((error) => {
             console.log(error)
@@ -67,6 +69,8 @@ class Home extends Component {
         axios.get(url_search)
         .then((response) => {
             console.log(response)
+            const data = response.data
+            this.props.history.push('/Listagem',data);
         })
         .catch((error) => {
             console.log(error)
