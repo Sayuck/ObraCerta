@@ -1,5 +1,8 @@
+require('dotenv').config({
+    path: process.env.NODE_ENV ==  'test' || process.env.NODE_ENV == 'test ' ? '.env.test' : '.env'
+});
+
 const express = require("express");
-require('dotenv').config();
 const jwt = require('jsonwebtoken');
 
 exports.generateToken = async (data) => {
@@ -7,7 +10,7 @@ exports.generateToken = async (data) => {
 }
 
 exports.decodeToken = async (authToken) => {
-    const [, token] = authToken.split(" ");
+    const token = authToken.split(" ").length > 1 ? authToken.split(' ')[1] : authToken
 
     const data = await jwt.verify(token, process.env.AU_HASH_KEY);
     return data;
@@ -15,8 +18,8 @@ exports.decodeToken = async (authToken) => {
 
 exports.middlewares = async function(req, res, next) {
     const authToken = req.headers.authorization;
-
-    const [, token] = authToken.split(" ");
+    
+    const token = authToken.split(" ").length > 1 ? authToken.split(' ')[1] : authToken;
 
     if(!token){
         return res.status(401).json({
