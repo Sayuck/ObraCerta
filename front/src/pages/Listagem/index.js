@@ -21,8 +21,8 @@ class Listagem extends Component {
     }
 
     render() {
-        console.log(this.data)
         let history = createHistory();
+        this.componentDidMount();
         return (
             <>
             <PageDefault>
