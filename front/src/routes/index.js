@@ -86,7 +86,7 @@ class Routes extends Component {
                             <RecuperarSenha {...props} loggedIn={this.state.loggedIn} />
                         )}
                     />
-                     <Route
+                    <Route
                         path='/sobre'
                         render={props => (
                             <Sobre {...props} loggedIn={this.state.loggedIn} />
