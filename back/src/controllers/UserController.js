@@ -92,7 +92,7 @@ class UserController {
       // let userList = []
       try {
         userList = await knex
-          .select('idUsuario', 'nomeCompleto', 'email', 'categoria', 'imagemPerfil', 'localidade', knex.raw('ARRAY_AGG(nota) as notas'))
+          .select('idUsuario', 'nomeCompleto', 'email', 'categoria' ,'descricao', 'imagemPerfil', 'localidade', knex.raw('ARRAY_AGG(nota) as notas'))
           .from('usuario')
           .innerJoin('avaliacao', 'usuario.idUsuario', '=', 'avaliacao.idAvaliado')
           .where(filters).groupBy('idUsuario');
