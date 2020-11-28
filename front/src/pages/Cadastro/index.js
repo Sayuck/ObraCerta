@@ -324,4 +324,4 @@ class Cadastro extends Component {
     }
 }
 
-export default Cadastro;
+export default Cadastro
