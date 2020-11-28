@@ -9,6 +9,7 @@ import TermosDeUsuario from '../pages/TermosDeUsuario';
 import PerfilUsuario from '../pages/PerfilUsuario';
 import RecuperarSenha from '../pages/RecuperarSenha';
 import Sobre from '../pages/Sobre';
+import EditarPerfil from '../pages/EditarPerfil';
 
 
 class Routes extends Component {
@@ -90,6 +91,12 @@ class Routes extends Component {
                         path='/sobre'
                         render={props => (
                             <Sobre {...props} loggedIn={this.state.loggedIn} />
+                        )}
+                    />
+                    <Route
+                        path='/editarperfil'
+                        render={props => (
+                            <EditarPerfil {...props}/>
                         )}
                     />
                 </Switch>
