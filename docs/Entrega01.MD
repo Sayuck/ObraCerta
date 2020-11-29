@@ -110,4 +110,8 @@ Na primeira sprint ficamos responsáveis (Eu, Samuel e Roberto) pela criação d
 
 
 Sprint 2
-02/11 - 15/11
+15/11 - 22/11
+
+### Roberto Nóbrega
+
+Nessa segunda sprint fiz a página Sobre - onde pode-se encontrar uma breve descrição da motivação e do porque do projeto além do contado dos membros do projeto, e fiz os testes manuais para testar o cadastro e login.

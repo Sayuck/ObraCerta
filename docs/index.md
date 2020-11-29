@@ -6,7 +6,7 @@
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)
 - [Backlog](/Backlog.MD)
-- [DER-DLD](/DER-DLD.MD)
+- [ModelagemBD](/DER-DLD.MD)
 - [Entrega01](/Entrega01.MD)
 - [Fluxograma](/Fluxograma.MD)
 
