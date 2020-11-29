@@ -1,129 +1,80 @@
-Nome do projeto: Obra certa 
-Resumo do projeto:  
+# Obra Certa
 
-Se trata de um aplicativo que visa beneficiar empreendedores\ da área de construção civil a encontrar mão de obra especializada na área, como a esses profissionais de disponibilizar em uma plataforma especializada seu perfil e amostras de trabalho realizado, com indicador de localidade em relação ao pesquisador mostrando suas referências e amostras de projetos realizados por meio de imagens e depoimentos de contratantes anteriores. 
-Resultados esperados: 
+
+## Proposta
+
+## Resumo do projeto:  
+
+
+Se trata de um aplicativo que visa beneficiar empreendedores da área de construção civil a encontrar mão de obra especializada na área, como a esses profissionais de disponibilizar em uma plataforma especializada seu perfil e amostras de trabalho realizado, com indicador de localidade em relação ao pesquisador mostrando suas referências e amostras de projetos realizados por meio de imagens e depoimentos de contratantes anteriores. 
+
+## Resultados esperados: 
+
 
 O objetivo é beneficiar os funcionários de construção civil com uma aplicação web para que possam encontrar possíveis projetos para trabalhar ou até pessoas que queiram realizar alguma obra e que estão procurando um ou mais funcionários. Entende-se que o aplicativo depende da adesão dos usuários para atingir o seu propósito maior, quanto mais pessoas utilizarem mais dados coletados e assim maior precisão no retorno das informações.   
-Abordagem de desenvolvimento de software:  
+
+## Abordagem de desenvolvimento de software:  
+
 
 Optamos pela utilização da metodologia ágil Scrum pois além de podermos fazer entregas constantemente ao final das sprints (feedback continuo para saber se estamos conforme o planejado), poderíamos também fazer mudanças rapidamente (caso algum erro for constatado) graças a grande adaptabilidade que o processo nos proporciona. Outra razão seria o prazo curto e a velocidade de implementação que o processo tem. 
 
- 
-Requisitos de Software:
+## Requisitos de Software:
+### Requisitos Funcionais
+|Requisito Funcional| Descrição|
+|--|--|
+|RF01|O sistema deve listar empregados|
+|RF02|O sistema deve permitir publicações de projetos| 
+|RF03|O sistema deve permitir publicações de trabalhos anteriores| 
+|RF04|O sistema deve permitir avaliar profissionais|
+|RF05|O sistema deve permitir a postagem de comentários em projetos|
+|RF06|O sistema deve permitir a postagem de comentários no perfil de profissionais| 
+|RF07|O sistema deve permitir que o usuário se cadastre|
+|RF08|O sistema deve permitir fazer login na plataforma| 
+|RF09|O sistema deve permitir editar o perfil| 
+|RF10|O sistema deve permitir remover perfil|
+|RF11|O sistema deve permitir remover projeto| 
+|RF12|O sistema deve permitir candidatar ao projeto| 
 
-Requisitos Funcionais 
 
-RF01 
-	
+|Requisitos Não Funcionais| Descrição|
+|--|--| 
+|RNF1 | O sistema deverá ter layout responsivo para acesso mobile| 
+|RNF2|O sistema deve classificar os funcionários com base em suas avaliações| 
 
-O sistema deve listar empregados 
-
-RF02 
-	
-
-O sistema deve permitir publicações de projetos 
-
-RF03 
-	
-
-O sistema deve permitir publicações de trabalhos anteriores 
-
-RF04 
-	
-
-O sistema deve permitir avaliar profissionais 
-
-RF05 
-	
-
-O sistema deve permitir a postagem de comentários em projetos 
-
-RF06 
-	
-
-O sistema deve permitir a postagem de comentários no perfil de profissionais 
-
-RF07 
-	
-
-O sistema deve permitir que o usuário se cadastre 
-
-RF08 
-	
-
-O sistema deve permitir fazer login na plataforma 
-
-RF09 
-	
-
-O sistema deve permitir editar o perfil 
-
-RF10 
-	
-
-O sistema deve permitir remover perfil 
-
-RF11 
-	
-
-O sistema deve permitir remover projeto 
-
-RF12 
-	
-
-O sistema deve permitir candidatar ao projeto 
-
- 
-
-Requisitos Não Funcionais 
-
-RNF1 
-	
-
-O sistema deverá ter layout responsivo para acesso mobile 
-
-RNF2 
-	
-
-O sistema deve classificar os funcionários com base em suas avaliações 
-
- 
-
-• Quais serão as técnicas/práticas utilizadas?  
+# Quais serão as técnicas/práticas utilizadas?  
 
     Estórias de usuários 
 
-• Quais os papéis e responsabilidades dos envolvidos? 
+# Quais os papéis e responsabilidades dos envolvidos? 
 
     Todos estão envolvidos na criação e revisão de estórias de usuários assim como requisitos (não) funcionais. 
 
-• Qual será a documentação produzida?  
+# Qual será a documentação produzida?  
 
     Estórias de usuário; 
 
     Listas de requisitos (não) funcionais. 
 
-• Quais serão os resultados gerados? 
+# Quais serão os resultados gerados? 
 
 A criação do backlog do produto para ser utilizado no decorrer do projeto para gerar o backlog das sprints. 
 
 Também será gerado uma lista contendo todas as Estórias de usuários.
 
  
-Design de Software 
+# Design de Software 
 
-• Quais serão as técnicas/práticas utilizadas?  
+## Quais serão as técnicas/práticas utilizadas?  
 
     Fluxogramas; 
 
     Protótipo. 
 
-• Quais os papéis e responsabilidades dos envolvidos? 
+## Quais os papéis e responsabilidades dos envolvidos? 
 
     Todos da equipe será responsável pela criação e revisão do Fluxograma e Protótipo. 
 
-• Qual será a documentação produzida?  
+## Qual será a documentação produzida?  
 
     Fluxogramas; 
 
@@ -131,7 +82,7 @@ Design de Software
 
     Diagrama de entidade-relacionamento (Banco de Dados). 
 
-• Quais serão os resultados gerados? 
+## Quais serão os resultados gerados? 
 
     A documentação já citada.
 
@@ -140,15 +91,15 @@ Link abaixo mostra o fluxograma proposto pelo grupo sobre o projeto.
 https://whimsical.com/MBNM1L74KeznhraA5orBbS 
 
 
-Construção de Software 
+# Construção de Software 
 
-• Quais serão as técnicas/práticas utilizadas?  
+## Quais serão as técnicas/práticas utilizadas?  
 
     Versionamento de código; 
 
     Clean Code. 
 
-• Quais os papéis e responsabilidades dos envolvidos?  
+## Quais os papéis e responsabilidades dos envolvidos?  
 
     Matheus – Mantenedor do repositório; 
 
@@ -156,20 +107,20 @@ Construção de Software
 
     Back-end – Kess, Pedro, Samuel. 
 
-• Qual será a documentação produzida?  
+## Qual será a documentação produzida?  
 
     Diagrama de entidades relacionais. 
 
     O própio código fonte do projeto, com comentários e documentação.
 
-• Quais serão os resultados gerados? 
+## Quais serão os resultados gerados? 
 
     Um software que realize as atividades propostas e decididas na disciplina de Requisitos e que possua uma organização definida pelo grupo de modo que facilite manutenções que venham a ocorrer no decorrer do projeto.
 
  
-Teste de Software 
+# Teste de Software 
 
-• Quais serão as técnicas/práticas utilizadas?  
+## Quais serão as técnicas/práticas utilizadas?  
 
     Testes Manuais; 
 
@@ -177,17 +128,17 @@ Teste de Software
 
     o grupo decidiu que durante o desenvolvimento do trabalho refletirá quando o uso dos testes em um nivel mais profundo se faz viavel e necessário e quando o uso de testes manuais já supre a nessessidade
 
-• Quais os papéis e responsabilidades dos envolvidos?  
+## Quais os papéis e responsabilidades dos envolvidos?  
 
     Todos da equipe será responsável pelos os testes unitários; 
 
     A sub-equipe front-end será responsável pelos testes manuais. 
 
-• Qual será a documentação produzida?  
+## Qual será a documentação produzida?  
 
     Nenhuma 
 
-• Quais serão os resultados gerados? 
+## Quais serão os resultados gerados? 
 
     Certificação de que o software cumpre os requisitos definidos na etapa de requisitos do projeto e asegurar uma maior qualidade do código fonte.
 
@@ -210,7 +161,7 @@ O próprio produto final proposto na disciplina de requisitos.
 
 Gerenciamento de Projeto de Software: 
 
-Conograma
+## Conograma
 
 Segue abaixo o link do cronograma caso a imagem apresente defeito.
 
@@ -222,23 +173,23 @@ No cronograma definimos as estórias de usuários que serão abordadas em cada u
 O backlog da sprint foi decidido que será montado durante a planning da equipe, de maneira que podemos assim definir as atividades com a nessessidade atual do projeto.
 
 
-• Quais serão as técnicas/práticas utilizadas?  
+## Quais serão as técnicas/práticas utilizadas?  
 
-   Kanban; 
+  * Kanban; 
 
-   Daily; 
+   * Daily; 
 
-   Retrô; 
+   * Retrô; 
 
-   Planning; 
+   * Planning; 
 
-   Sprints. 
+   * Sprints. 
 
-• Quais os papéis e responsabilidades dos envolvidos?  
+## Quais os papéis e responsabilidades dos envolvidos?  
 
     Matheus – PO/ ScrumMaster 
 
-• Qual será a documentação produzida?  
+## Qual será a documentação produzida?  
 
     Um quadro no Trello; 
 
@@ -246,8 +197,6 @@ O backlog da sprint foi decidido que será montado durante a planning da equipe,
 
     Documentação de Retrô. 
 
-• Quais serão os resultados gerados? 
+## Quais serão os resultados gerados? 
 
     Um cronograma baseado no tempo em que a equipe possui para o desenvolvimento do projeto.
-
-
