@@ -44,9 +44,9 @@ Também será gerado uma lista contendo todas as Estórias de usuários.
 
 ## Quais serão as técnicas/práticas utilizadas?  
 
-    Fluxogramas; 
+    - [Fluxogramas](/Fluxograma.MD) 
 
-    Protótipo. 
+    - [Protótipo](/Prototipo.MD)
 
 ## Quais os papéis e responsabilidades dos envolvidos? 
 
@@ -137,31 +137,20 @@ Todos os integrantes do grupo terão os mesmos papeis nessa disciplina do projet
 O próprio produto final proposto na disciplina de requisitos. 
 
 
-Gerenciamento de Projeto de Software: 
-
-## Conograma
-
-Segue abaixo o link do cronograma caso a imagem apresente defeito.
-
-https://unbbr.sharepoint.com/:x:/s/XGHteam/EXM7WU0mNkJAli47lxbGg_QBIm0onchX7f2SLYid93EjEw?e=mYvsaw
-
-
-No cronograma definimos as estórias de usuários que serão abordadas em cada uma das sprints do projeto.
-
-O backlog da sprint foi decidido que será montado durante a planning da equipe, de maneira que podemos assim definir as atividades com a nessessidade atual do projeto.
+# Gerenciamento de Projeto de Software: 
 
 
 ## Quais serão as técnicas/práticas utilizadas?  
 
-  * Kanban; 
+   * Kanban 
 
-   * Daily; 
+   * Daily 
 
-   * Retrô; 
+   * Retrô
 
-   * Planning; 
+   * Planning 
 
-   * Sprints. 
+   * Sprints
 
 ## Quais os papéis e responsabilidades dos envolvidos?  
 
