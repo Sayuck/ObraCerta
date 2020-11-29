@@ -1,4 +1,4 @@
-- [Apresentação](/index.MD)
+- [Apresentação](/README.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Backlog](/Backlog.MD)
