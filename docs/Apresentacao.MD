@@ -21,23 +21,23 @@ Optamos pela utilização da metodologia ágil Scrum pois além de podermos faze
 
 # Quais serão as técnicas/práticas utilizadas?  
 
-    Estórias de usuários 
+* Estórias de usuários 
 
 # Quais os papéis e responsabilidades dos envolvidos? 
 
-    Todos estão envolvidos na criação e revisão de estórias de usuários assim como requisitos (não) funcionais. 
+* Todos estão envolvidos na criação e revisão de estórias de usuários assim como requisitos (não) funcionais. 
 
 # Qual será a documentação produzida?  
 
-    Estórias de usuário; 
+* Estórias de usuário; 
 
-    Listas de requisitos (não) funcionais. 
+* Listas de requisitos (não) funcionais. 
 
 # Quais serão os resultados gerados? 
 
-A criação do backlog do produto para ser utilizado no decorrer do projeto para gerar o backlog das sprints. 
+* A criação do backlog do produto para ser utilizado no decorrer do projeto para gerar o backlog das sprints. 
 
-Também será gerado uma lista contendo todas as Estórias de usuários.
+* Também será gerado uma lista contendo todas as Estórias de usuários.
 
  
 # Design de Software 
@@ -50,89 +50,85 @@ Também será gerado uma lista contendo todas as Estórias de usuários.
 
 ## Quais os papéis e responsabilidades dos envolvidos? 
 
-    Todos da equipe será responsável pela criação e revisão do Fluxograma e Protótipo. 
+* Todos da equipe será responsável pela criação e revisão do Fluxograma e Protótipo. 
 
 ## Qual será a documentação produzida?  
 
-    Fluxogramas; 
+* Fluxogramas; 
 
-    Protótipo; 
+* Protótipo; 
 
-    Diagrama de entidade-relacionamento (Banco de Dados). 
+* Diagrama de entidade-relacionamento (Banco de Dados). 
 
 ## Quais serão os resultados gerados? 
 
-    A documentação já citada.
-
-Link abaixo mostra o fluxograma proposto pelo grupo sobre o projeto.
-
-https://whimsical.com/MBNM1L74KeznhraA5orBbS 
+* A documentação já citada.
 
 
 # Construção de Software 
 
 ## Quais serão as técnicas/práticas utilizadas?  
 
-    Versionamento de código; 
+* Versionamento de código; 
 
-    Clean Code. 
+* Clean Code. 
 
 ## Quais os papéis e responsabilidades dos envolvidos?  
 
-    Matheus – Mantenedor do repositório; 
+* Matheus – Mantenedor do repositório; 
 
-    Front-end – Matheus, Igor, Roberto; 
+* Front-end – Matheus, Igor, Roberto; 
 
-    Back-end – Kess, Pedro, Samuel. 
+* Back-end – Kess, Pedro, Samuel. 
 
 ## Qual será a documentação produzida?  
 
-    Diagrama de entidades relacionais. 
+* Diagrama de entidades relacionais. 
 
-    O própio código fonte do projeto, com comentários e documentação.
+* O própio código fonte do projeto, com comentários e documentação.
 
 ## Quais serão os resultados gerados? 
 
-    Um software que realize as atividades propostas e decididas na disciplina de Requisitos e que possua uma organização definida pelo grupo de modo que facilite manutenções que venham a ocorrer no decorrer do projeto.
+* Um software que realize as atividades propostas e decididas na disciplina de Requisitos e que possua uma organização definida pelo grupo de modo que facilite manutenções que venham a ocorrer no decorrer do projeto.
 
  
 # Teste de Software 
 
 ## Quais serão as técnicas/práticas utilizadas?  
 
-    Testes Manuais; 
+* Testes Manuais; 
 
-    Testes Unitários. 
+* Testes Unitários. 
 
-    o grupo decidiu que durante o desenvolvimento do trabalho refletirá quando o uso dos testes em um nivel mais profundo se faz viavel e necessário e quando o uso de testes manuais já supre a nessessidade
+* o grupo decidiu que durante o desenvolvimento do trabalho refletirá quando o uso dos testes em um nivel mais profundo se faz viavel e necessário e quando o uso de testes manuais já supre a nessessidade
 
 ## Quais os papéis e responsabilidades dos envolvidos?  
 
-    Todos da equipe será responsável pelos os testes unitários; 
+* Todos da equipe será responsável pelos os testes unitários; 
 
-    A sub-equipe front-end será responsável pelos testes manuais. 
+* A sub-equipe front-end será responsável pelos testes manuais. 
 
 ## Qual será a documentação produzida?  
 
-    Nenhuma 
+* Nenhuma 
 
 ## Quais serão os resultados gerados? 
 
-    Certificação de que o software cumpre os requisitos definidos na etapa de requisitos do projeto e asegurar uma maior qualidade do código fonte.
+* Certificação de que o software cumpre os requisitos definidos na etapa de requisitos do projeto e asegurar uma maior qualidade do código fonte.
 
 Gerenciamento de configuração de software 
 
-    Técnicas e práticas 
+* Técnicas e práticas 
 
 Controle de versão e integração continua. 
 
 Para isso o grupo decidiu usar a ferramenta do Git para o controle de versão, usando como plataforma o github. 
 
-    Papéis e responsabilidades 
+* Papéis e responsabilidades 
 
 Todos os integrantes do grupo terão os mesmos papeis nessa disciplina do projeto, pois todos serão responsáveis pela manutenção e gerenciamento das configurações do projeto. 
 
-    Resultados gerados 
+* Resultados gerados 
 
 O próprio produto final proposto na disciplina de requisitos. 
 
@@ -154,16 +150,16 @@ O próprio produto final proposto na disciplina de requisitos.
 
 ## Quais os papéis e responsabilidades dos envolvidos?  
 
-    Matheus – PO/ ScrumMaster 
+* Matheus – PO/ ScrumMaster 
 
 ## Qual será a documentação produzida?  
 
-    Um quadro no Trello; 
+* Um quadro no Trello; 
 
-    Documentação da Planning; 
+* Documentação da Planning; 
 
-    Documentação de Retrô. 
+* Documentação de Retrô. 
 
 ## Quais serão os resultados gerados? 
 
-    Um cronograma baseado no tempo em que a equipe possui para o desenvolvimento do projeto.
+* Um cronograma baseado no tempo em que a equipe possui para o desenvolvimento do projeto.

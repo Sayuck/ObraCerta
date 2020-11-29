@@ -2,7 +2,7 @@
 
 Segue abaixo o link do cronograma caso a imagem apresente defeito.
 
-https://unbbr.sharepoint.com/:x:/s/XGHteam/EXM7WU0mNkJAli47lxbGg_QBIm0onchX7f2SLYid93EjEw?e=mYvsaw
+[Cronograma](https://unbbr.sharepoint.com/:x:/s/XGHteam/EXM7WU0mNkJAli47lxbGg_QBIm0onchX7f2SLYid93EjEw?e=mYvsaw)
 
 
 No cronograma definimos as estórias de usuários que serão abordadas em cada uma das sprints do projeto.
