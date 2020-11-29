@@ -44,9 +44,9 @@ Optamos pela utilização da metodologia ágil Scrum pois além de podermos faze
 
 ## Quais serão as técnicas/práticas utilizadas?  
 
-    - [Fluxogramas](/Fluxograma.MD) 
+- [Fluxogramas](/Fluxograma.MD) 
 
-    - [Protótipo](/Prototipo.MD)
+- [Protótipo](/Prototipo.MD)
 
 ## Quais os papéis e responsabilidades dos envolvidos? 
 
