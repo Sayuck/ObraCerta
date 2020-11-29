@@ -1,37 +1,253 @@
-## Welcome to GitHub Pages
+Nome do projeto: Obra certa 
+Resumo do projeto:  
 
-You can use the [editor on GitHub](https://github.com/Sayuck/ObraCerta/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Se trata de um aplicativo que visa beneficiar empreendedores\ da área de construção civil a encontrar mão de obra especializada na área, como a esses profissionais de disponibilizar em uma plataforma especializada seu perfil e amostras de trabalho realizado, com indicador de localidade em relação ao pesquisador mostrando suas referências e amostras de projetos realizados por meio de imagens e depoimentos de contratantes anteriores. 
+Resultados esperados: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O objetivo é beneficiar os funcionários de construção civil com uma aplicação web para que possam encontrar possíveis projetos para trabalhar ou até pessoas que queiram realizar alguma obra e que estão procurando um ou mais funcionários. Entende-se que o aplicativo depende da adesão dos usuários para atingir o seu propósito maior, quanto mais pessoas utilizarem mais dados coletados e assim maior precisão no retorno das informações.   
+Abordagem de desenvolvimento de software:  
 
-### Markdown
+Optamos pela utilização da metodologia ágil Scrum pois além de podermos fazer entregas constantemente ao final das sprints (feedback continuo para saber se estamos conforme o planejado), poderíamos também fazer mudanças rapidamente (caso algum erro for constatado) graças a grande adaptabilidade que o processo nos proporciona. Outra razão seria o prazo curto e a velocidade de implementação que o processo tem. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
+Requisitos de Software:
 
-```markdown
-Syntax highlighted code block
+Requisitos Funcionais 
 
-# Header 1
-## Header 2
-### Header 3
+RF01 
+	
 
-- Bulleted
-- List
+O sistema deve listar empregados 
 
-1. Numbered
-2. List
+RF02 
+	
 
-**Bold** and _Italic_ and `Code` text
+O sistema deve permitir publicações de projetos 
 
-[Link](url) and ![Image](src)
-```
+RF03 
+	
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+O sistema deve permitir publicações de trabalhos anteriores 
 
-### Jekyll Themes
+RF04 
+	
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sayuck/ObraCerta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+O sistema deve permitir avaliar profissionais 
 
-### Support or Contact
+RF05 
+	
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+O sistema deve permitir a postagem de comentários em projetos 
+
+RF06 
+	
+
+O sistema deve permitir a postagem de comentários no perfil de profissionais 
+
+RF07 
+	
+
+O sistema deve permitir que o usuário se cadastre 
+
+RF08 
+	
+
+O sistema deve permitir fazer login na plataforma 
+
+RF09 
+	
+
+O sistema deve permitir editar o perfil 
+
+RF10 
+	
+
+O sistema deve permitir remover perfil 
+
+RF11 
+	
+
+O sistema deve permitir remover projeto 
+
+RF12 
+	
+
+O sistema deve permitir candidatar ao projeto 
+
+ 
+
+Requisitos Não Funcionais 
+
+RNF1 
+	
+
+O sistema deverá ter layout responsivo para acesso mobile 
+
+RNF2 
+	
+
+O sistema deve classificar os funcionários com base em suas avaliações 
+
+ 
+
+• Quais serão as técnicas/práticas utilizadas?  
+
+    Estórias de usuários 
+
+• Quais os papéis e responsabilidades dos envolvidos? 
+
+    Todos estão envolvidos na criação e revisão de estórias de usuários assim como requisitos (não) funcionais. 
+
+• Qual será a documentação produzida?  
+
+    Estórias de usuário; 
+
+    Listas de requisitos (não) funcionais. 
+
+• Quais serão os resultados gerados? 
+
+A criação do backlog do produto para ser utilizado no decorrer do projeto para gerar o backlog das sprints. 
+
+Também será gerado uma lista contendo todas as Estórias de usuários.
+
+ 
+Design de Software 
+
+• Quais serão as técnicas/práticas utilizadas?  
+
+    Fluxogramas; 
+
+    Protótipo. 
+
+• Quais os papéis e responsabilidades dos envolvidos? 
+
+    Todos da equipe será responsável pela criação e revisão do Fluxograma e Protótipo. 
+
+• Qual será a documentação produzida?  
+
+    Fluxogramas; 
+
+    Protótipo; 
+
+    Diagrama de entidade-relacionamento (Banco de Dados). 
+
+• Quais serão os resultados gerados? 
+
+    A documentação já citada.
+
+Link abaixo mostra o fluxograma proposto pelo grupo sobre o projeto.
+
+https://whimsical.com/MBNM1L74KeznhraA5orBbS 
+
+
+Construção de Software 
+
+• Quais serão as técnicas/práticas utilizadas?  
+
+    Versionamento de código; 
+
+    Clean Code. 
+
+• Quais os papéis e responsabilidades dos envolvidos?  
+
+    Matheus – Mantenedor do repositório; 
+
+    Front-end – Matheus, Igor, Roberto; 
+
+    Back-end – Kess, Pedro, Samuel. 
+
+• Qual será a documentação produzida?  
+
+    Diagrama de entidades relacionais. 
+
+    O própio código fonte do projeto, com comentários e documentação.
+
+• Quais serão os resultados gerados? 
+
+    Um software que realize as atividades propostas e decididas na disciplina de Requisitos e que possua uma organização definida pelo grupo de modo que facilite manutenções que venham a ocorrer no decorrer do projeto.
+
+ 
+Teste de Software 
+
+• Quais serão as técnicas/práticas utilizadas?  
+
+    Testes Manuais; 
+
+    Testes Unitários. 
+
+    o grupo decidiu que durante o desenvolvimento do trabalho refletirá quando o uso dos testes em um nivel mais profundo se faz viavel e necessário e quando o uso de testes manuais já supre a nessessidade
+
+• Quais os papéis e responsabilidades dos envolvidos?  
+
+    Todos da equipe será responsável pelos os testes unitários; 
+
+    A sub-equipe front-end será responsável pelos testes manuais. 
+
+• Qual será a documentação produzida?  
+
+    Nenhuma 
+
+• Quais serão os resultados gerados? 
+
+    Certificação de que o software cumpre os requisitos definidos na etapa de requisitos do projeto e asegurar uma maior qualidade do código fonte.
+
+Gerenciamento de configuração de software 
+
+    Técnicas e práticas 
+
+Controle de versão e integração continua. 
+
+Para isso o grupo decidiu usar a ferramenta do Git para o controle de versão, usando como plataforma o github. 
+
+    Papéis e responsabilidades 
+
+Todos os integrantes do grupo terão os mesmos papeis nessa disciplina do projeto, pois todos serão responsáveis pela manutenção e gerenciamento das configurações do projeto. 
+
+    Resultados gerados 
+
+O próprio produto final proposto na disciplina de requisitos. 
+
+
+Gerenciamento de Projeto de Software: 
+
+Conograma
+
+Segue abaixo o link do cronograma caso a imagem apresente defeito.
+
+https://unbbr.sharepoint.com/:x:/s/XGHteam/EXM7WU0mNkJAli47lxbGg_QBIm0onchX7f2SLYid93EjEw?e=mYvsaw
+
+
+No cronograma definimos as estórias de usuários que serão abordadas em cada uma das sprints do projeto.
+
+O backlog da sprint foi decidido que será montado durante a planning da equipe, de maneira que podemos assim definir as atividades com a nessessidade atual do projeto.
+
+
+• Quais serão as técnicas/práticas utilizadas?  
+
+   Kanban; 
+
+   Daily; 
+
+   Retrô; 
+
+   Planning; 
+
+   Sprints. 
+
+• Quais os papéis e responsabilidades dos envolvidos?  
+
+    Matheus – PO/ ScrumMaster 
+
+• Qual será a documentação produzida?  
+
+    Um quadro no Trello; 
+
+    Documentação da Planning; 
+
+    Documentação de Retrô. 
+
+• Quais serão os resultados gerados? 
+
+    Um cronograma baseado no tempo em que a equipe possui para o desenvolvimento do projeto.
+
+
