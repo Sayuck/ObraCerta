@@ -27,7 +27,7 @@ O sprint-review será feito segunda-feira, onde serão contabilizados os pontos 
 
 ## Dailies
 
-As Dailies são realizadas diariamente pelo telegram e/ou Discord, exceto segunda-feira, pois serão realizadas exclusivamente via Discord/Teams.
+Inicialmente as Dailies seriam realizadas diariamente pelo telegram e/ou Discord, exceto segunda-feira, pois seriam realizadas exclusivamente via Discord/Teams.
 
 |Dia| 	Hora| Local|
 |--|--|--|--|
@@ -38,6 +38,8 @@ As Dailies são realizadas diariamente pelo telegram e/ou Discord, exceto segund
 |Sexta 	| --:-- | Telegram/Discord
 |Sábado |	--:-- | Telegram/Discord
 |Domingo| --:-- | Telegram/Discord
+
+Porém após a primeira sprint percebemos que a utilização da mesma em nada contribuia no andamento do projeto visto nosso constante contato com todos os membros do grupo via Teleram/Discord além da programação em pares.
 
 ## Trello
 
