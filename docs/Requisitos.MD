@@ -21,8 +21,8 @@
 
 |Requisitos Não Funcionais| Descrição|
 |--|--| 
-|RNF1 | O sistema deverá ter layout responsivo para acesso mobile| 
-|RNF2|O sistema deve classificar os funcionários com base em suas avaliações| 
+|RNF01 | O sistema deverá ter layout responsivo para acesso mobile| 
+|RNF02|O sistema deve classificar os funcionários com base em suas avaliações| 
 
 
 <br/>
