@@ -10,7 +10,7 @@
 
 ## Atributos:
 
-* USUARIO (<ins>idUsuario</ins>, email, nomeCompleto, criadoEm, {telefone})
+* USUARIO (<ins>idUsuario</ins>, email, nomeCompleto, criadoEm, telefone)
 * PUBLICACAO (<ins>idPublicacao</ins>, idUsuario, {imagem}, pubCriadaEm)
 * PROJETO (<ins>idProjeto</ins>, tituloProjeto, imagemProjeto, descricaoProjeto, idProprietario)
 * AVALIACAO (<ins>idAvaliacao</ins>, idAvaliador, idAvaliado, nota)
@@ -69,7 +69,96 @@ Cardinalidade: 1 : n
 <br/>
 <br/>
 
+# DICIONÁRIO DE DADOS
 
+|Entidade: USUARIO|
+|--|
+|Descrição: Define os dados do Usuário que serão cadastrados no banco de dados do ObraCerta|
+
+|Atributo| Propriedades do atributo| Tipo de dado| Tamanho| Descrição|
+|--|--|--|--|--|
+|idUsuario|chave primária / obrigatório  | int | -- | número que identifica o usuário do ObraCerta| 
+|email|obrigatório |VARCHAR|50 |e-mail do usuário cadastrado no ObraCerta|
+|nomeCompleto|obrigatório|VARCHAR|100| |
+|criadoEm|obrigatório|DATE|--|Data de criação do usuário no ObraCerta|
+|telefone|obrigatório|VARCHAR|11|Número de telefone do usuário cadastrado no ObraCerta|
+
+<br/>
+
+|Entidade: PROJETO|
+|--|
+|Descrição: Define os dados do Projeto que serão cadastrados no banco de dados do ObraCerta|
+
+|Atributo| Propriedades do atributo| Tipo de dado| Tamanho| Descrição|
+|--|--|--|--|--|
+|idProjeto|
+|tituloProjeto|
+|imagemProjeto|
+|descicaoProjeto|
+|localidadeProjeto|
+|idProprietario|
+
+
+<br/>
+
+
+|Entidade: PUBLICACAO|
+|--|
+|Descrição: Define os dados da Publicação que serão cadastrados no banco de dados do ObraCerta|
+
+|Atributo| Propriedades do atributo| Tipo de dado| Tamanho| Descrição|
+|--|--|--|--|--|
+
+
+<br/>
+
+|Entidade: COMENTARIO|
+|--|
+|Descrição: Define os dados do Comentário que serão salvos no banco de dados do ObraCerta|
+
+|Atributo| Propriedades do atributo| Tipo de dado| Tamanho| Descrição|
+|--|--|--|--|--|
+
+
+<br/>
+
+|Entidade: AVALIACAO|
+|--|
+|Descrição: Define os dados da Avaliação que serão salvos no banco de dados do ObraCerta|
+
+|Atributo| Propriedades do atributo| Tipo de dado| Tamanho| Descrição|
+|--|--|--|--|--|
+
+
+
+<br/>
+
+|Relacionamento: candidata-se|
+|--|
+|Descrição: Define os dados do relacionamento entre o usuário e o projeto|
+
+|Atributo| Propriedades do atributo| Tipo de dado| Tamanho| Descrição|
+|--|--|--|--|--|
+
+<br/>
+
+|Atributo Multivalorado: imagem|
+|--|
+|Descrição: Imagens cadastradas pelo usuário na publicação|
+
+|Atributo| Propriedades do atributo| Tipo de dado| Tamanho| Descrição|
+|--|--|--|--|--|
+|idImagem|chave Primária / obrigatório| INT| --| número de identificação da imagem|
+|idUsuario| chave primaria / chave estrangeira/ obrigatório| INT| -- | número de identificação do usuário|
+|urlImagem|obrigatório / único| VARCHAR| 200| url para a imagem na Amazon|
+
+
+<br/>
+<br/>
+<br/>
+
+
+- [Inicio](/index.md)
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
 - [Requisitos](/Requisitos.MD)
