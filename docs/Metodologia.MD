@@ -39,7 +39,7 @@ Inicialmente as Dailies seriam realizadas diariamente pelo telegram e/ou Discord
 |Sábado |	--:-- | Telegram/Discord
 |Domingo| --:-- | Telegram/Discord
 
-Porém após a primeira sprint percebemos que a utilização da mesma em nada contribuia no andamento do projeto visto nosso constante contato com todos os membros do grupo via Teleram/Discord além da programação em pares.
+Porém após a primeira sprint percebemos que a utilização da mesma não se fazia fundamental no andamento do projeto visto nosso constante contato com todos os membros do grupo via Teleram/Discord além da programação em pares.
 
 ## Trello
 
