@@ -2,6 +2,7 @@
 
 
 - [Apresentação](/Apresentacao.MD)
+- [Metodologia](/Metodologia.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)
