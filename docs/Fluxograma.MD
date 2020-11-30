@@ -10,6 +10,8 @@
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)
+- Fluxograma
 - [Backlog](/Backlog.MD)
 - [ModelagemBD](/DER-DLD.MD)
 - [Entrega01](/Entrega01.MD)
+

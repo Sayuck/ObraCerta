@@ -63,6 +63,7 @@ Para otimização da produtividade da equipe e gestão do conhecimento, faremos 
 
 
 - [Apresentação](/Apresentacao.MD)
+- Metodologia
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)
@@ -70,3 +71,4 @@ Para otimização da produtividade da equipe e gestão do conhecimento, faremos 
 - [Backlog](/Backlog.MD)
 - [ModelagemBD](/DER-DLD.MD)
 - [Entrega01](/Entrega01.MD)
+
