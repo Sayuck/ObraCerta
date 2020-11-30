@@ -1,5 +1,5 @@
 # Obra Certa
-
+<link rel="stylesheet" href="./styles.css">
 
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
@@ -12,11 +12,16 @@
 - [Entrega01](/Entrega01.MD)
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
 # Equipe KRIMPS:
+
+
 ![Cobrador](https://avatars1.githubusercontent.com/u/36316726?s=400&u=293f50e2555813c6df20f6b10a2b848844c0c479&v=4)
 ## [Matheus Gabriel A. Rodrigues - Líder/Front-end Developer](https://github.com/Matheus73)
 
