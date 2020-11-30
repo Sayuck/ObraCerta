@@ -22,7 +22,7 @@ Review geral
 
 Na primeira sprint o grupo teve como foco a parte de criação/idealização e manutenção do banco de dados, criação das funcionalidades do login e do cadastro, tanto por parte do back-end quanto do front-end.
 
-Diferente das demais sprints, o grupo optou por um sprint maior (2x o tempo de uma sprint) no início por se tratar de uma nova etapa da matéria onde seria necessário uma adaptação dos integrantes do grupo. Achamos necessário esse tempo extra para um alinhamento para um alinhamento do grupo em relação ao projeto.
+Diferente das demais sprints, o grupo optou por um sprint maior (2x o tempo de uma sprint) no início por se tratar de uma nova etapa da matéria onde seria necessário uma adaptação dos integrantes do grupo. Achamos necessário esse tempo extra para um alinhamento do grupo em relação ao projeto.
 
 ## TRELLO:
 
