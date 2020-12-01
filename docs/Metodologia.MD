@@ -73,4 +73,6 @@ Para otimização da produtividade da equipe e gestão do conhecimento, faremos 
 - [Backlog](/Backlog.MD)
 - [ModelagemBD](/DER-DLD.MD)
 - [Entrega01](/Entrega01.MD)
+- [Plaining Sprint 1](/Plaining_Sprint1.MD)
+- [Review Sprint 1](/Review01.MD)
 
