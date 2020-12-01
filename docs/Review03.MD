@@ -68,9 +68,9 @@ Pontos Não Agregados: 0
 - [ModelagemBD](/DER-DLD.MD)
 - [Entrega01](/Entrega01.MD)
 - [Plaining Sprint 1](/Plaining_Sprint1.MD)
-- Review Sprint 1
+- [Review Sprint 1](/Review01.MD)
 - [Plaining Sprint 2](/Plaining_Sprint2.MD)
 - [Review Sprint 2](/Review02.MD)
 - [Plaining Sprint 3](/Plaining_Sprint3.MD)
-- [Review Sprint 3](/Review03.MD)
+- Review Sprint 3
 - [Entrega02](/Entrega02.MD)

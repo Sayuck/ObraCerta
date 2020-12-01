@@ -1,16 +1,16 @@
 # Planejamento Sprint 01
 
 <p align="justify">
-A equipe decidiu que nessa primeira sprint que começariamos com a #US01 onde cria-se o sistema de login e suas validações de forma a ser possível apresentar na primeira entrega resultados palpáveis.
+
 </p>
 
 
 ## Tamanho da Sprint 01      
-**Início:** 02/11/2020
+**Início:** 15/11/2020
    
-**Término:** 15/11/2020  
+**Término:** 22/11/2020  
 
-**Duração:** 14 dias   
+**Duração:** 7 dias   
 
 ## Pareamentos   
 
@@ -23,20 +23,6 @@ A equipe decidiu que nessa primeira sprint que começariamos com a #US01 onde cr
 
 |     _Issue_      |    Pontos   |     *Assign*     |
 |:----------------:|:-----------:|:----------------:|
-| Criar card|3|[Igor](https://github.com/igorq937)
-| Criar botões|3|[Igor](https://github.com/igorq937)
-| Criar link|2|[Igor](https://github.com/igorq937)
-| Criar input|3|[Roberto](https://github.com/Sayuck)
-|Criar menu|4|[Matheus](https://github.com/Matheus73), [Roberto](https://github.com/Sayuck) e [Igor](https://github.com/igorq937) 
-| Criar Page Default|2|[Matheus](https://github.com/Matheus73)
-| Montar página principal|4|[Matheus](https://github.com/Matheus73), [Roberto](https://github.com/Sayuck) e [Igor](https://github.com/igorq937) 
-| Montar página cadastrar-se|5|[Roberto](https://github.com/Sayuck) e [Matheus](https://github.com/Matheus73)
-| Implementar um sistema de autenticação para o login|5|
-| Criar endpoint para login|3|[Samuel](https://github.com/SamuelNoB)
-| Validação dos inputs na página cadastrar|5|[Matheus](https://github.com/Matheus73) e [Roberto](https://github.com/Sayuck)
-| Criar endpoint para cadastro|5|[Samuel](https://github.com/SamuelNoB)
-| Criar termos de uso|2|[Roberto](https://github.com/Sayuck)
-|Integrar a pagina de cadastro com o back-end da aplicação|5| 
 
 
 
@@ -91,9 +77,10 @@ Não houveram
 - [Backlog](/Backlog.MD)
 - [ModelagemBD](/DER-DLD.MD)
 - [Entrega01](/Entrega01.MD)
-- Plaining Sprint 1
 - [Review Sprint 1](/Review01.MD)
-- [Plaining Sprint 2](/Plaining_Sprint2.MD)
+- [Plaining Sprint 1](/Plaining_Sprint1.MD)
+- [Review Sprint 1](/Review01.MD)
+- Plaining Sprint 2
 - [Review Sprint 2](/Review02.MD)
 - [Plaining Sprint 3](/Plaining_Sprint3.MD)
 - [Review Sprint 3](/Review03.MD)
