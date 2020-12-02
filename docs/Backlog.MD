@@ -30,18 +30,19 @@
 |#US01|Integrar página de login com o back|
 |#US02|Eu como usuário quero realizar publicações de serviços que eu já prestei, para que outras pessoas possam ver meu trabalho e possam me contratar|
 |#US02| Criar endpoint para a visualização de publicações|
+|#US02| Criar endpoint para o cadastro de publicações de serviços já prestados.
 |#US02| Criar endpoint para excluir uma publicação|
 |#US03| Eu como usuário gostaria de comentar as publicações de terceiros para que eu possa interagir com eles|
-|#US03| criar casos de testes para o Publication controller|
+|#US03| Criar casos de testes para o Publication controller|
 |#US04| Eu como usuário gostaria de poder avaliar profissionais|
-|#US04|criar um endpoint de nova avaliação|
-|#US04| criar endpoint para visualizar media de avaliação de UM usuário.|
-|#US04|criar endpoint para atualização da nota da avaliação.|
+|#US04|Criar um endpoint de nova avaliação|
+|#US04| Criar endpoint para visualizar media de avaliação de UM usuário.|
+|#US04|Criar endpoint para atualização da nota da avaliação.|
 |#US05| Como usuário gostaria de poder visualizar uma lista de usuários com as melhores avaliações.|
-|#US05| editar endpoint de listar usuários para listar usuários com base em filtros.|
+|#US05| Editar endpoint de listar usuários para listar usuários com base em filtros.|
 |#US06| Como usuario eu gostaria de pesquisar por categorias de profissionais|
 |#US07| Como usuário, eu gostaria de possuir um Perfil onde eu possa terminar de inserir minhas informações e possa edita-las a qualquer momento|
-|#US07| inserir na tabela de usuário um campo com a resposta de uma pergunta de segurança e tambem um campo para a descrição de uma publicação de servico|
+|#US07| Inserir na tabela de usuário um campo com a resposta de uma pergunta de segurança e tambem um campo para a descrição de uma publicação de servico|
 |#US07| Criar endpoint para editar as informações já criadas e inserir novas que não foram adicionadas no cadastro|
 |#US07| Criar endpoint para alterar senha quando o usuário já estiver logado|
 |#US07| Criar endpoint para recuperar a senha caso o usuário tenha se esquecido dela.|

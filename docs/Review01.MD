@@ -12,25 +12,27 @@ Diferente das demais sprints, o grupo optou por um sprint maior (2x o tempo de u
 
 | _Issue_ | _Status_ | Pontos |
 | :-----: | :------: | :----: |
-| Criar card|Pendente|3
+| Criar card|Concluído|3
 | Criar botões|Concluído| 3 
 | Criar link|Concluído| 2 
 | Criar input|Concluído|3
-|Criar menu|Pendente|4
+|Criar menu|Concluído|4
 | Criar Page Default|Concluído|2
 | Montar página principal|Concluído|4
 | Montar página cadastrar-se|Concluído|5
-| Implementar um sistema de autenticação para o login|Pendente|5
+| Implementar um sistema de autenticação para o login|Concluído|5
 | Criar endpoint para login|Concluído|3
-| Validação dos inputs na página cadastrar|Pendente|5
+| Validação dos inputs na página cadastrar|Concluído|5
 | Criar endpoint para cadastro|Concluído|5
 | Criar termos de uso|Concluido|2
-|Integrar a pagina de cadastro com o back-end da aplicação|Pendente|5
+|Integrar a pagina de cadastro com o back-end da aplicação|Concluído|5
+|montar o DER e MER do projeto|Concluido|2|
+|Após montar o DER e MER, implementar os modelos no server|Concluido|3|
 
 <br/>
 <br/>
 
-Pontos Planejados Concluídos: ??
+Pontos Planejados Concluídos: 51
 
 Pontos de Dívida Concluídos:  0   
 
@@ -51,7 +53,7 @@ Pontos Não Agregados: 0
 ## Pontos Negativos
 
   - Curva de aprendizado de node e react.
-  - Muitas issues com pontuação alta em uma única sprint.
+
 
 
 
