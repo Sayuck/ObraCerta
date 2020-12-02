@@ -41,9 +41,13 @@ Com
 
 
 ## Pontos Positivos
-
+- Boa interação de todos os membros nessa reta final
+- Empenho de todos para conseguir completar o máximo possível.
   
 ## Pontos Negativos
+
+- Pressão psicológica pela falta de tempo para terminar o projeto.
+- Ter que tirar funcionalidade do escopo por falta de tempo.
 
 
 

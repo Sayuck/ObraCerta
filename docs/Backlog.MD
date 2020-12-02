@@ -1,6 +1,6 @@
 
-|Technical Story|Descrição
-|--|--|
+|Technical Story|Descrição|
+|:-------------:|:-------:|
 |#TS00|Definir o Backlog|
 |#TS00|Preparar o ambiente|
 |#TS00|Montar layout do site|
@@ -11,7 +11,7 @@
 |#TS02|Eu como desenvolvedor quero documentar e criar casos de teste para os componentes já desenvolvidos e os que serão desenvolvidos na sprint, para que assim nosso software seja facilmente testável e escalável.|
 
 |User Story|Descrição|
-|--|--|
+|:--------:|:-------:|
 |#US01|Eu como usuário quero ser capaz de me registrar e logar no site|
 |#US01| Criar card|
 |#US01| Criar botões|
