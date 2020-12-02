@@ -41,7 +41,9 @@ Pontos Não Agregados: 0
 
 # Retrospectiva
 
+O grupo teve uma certa dificuldade na adaptação com as tecnologias mas com a programação em pares conseguimos concluir todas as issues que nos dispomos a implementar.
 
+No decorrer dessa primeira sprint melhoramos a comunicação, principalmente por parte do back-end que inicialmente não estavam bem entrosados e percebemos que assim as dailies deixaram de ser importantes visto nosso constante contato com os da mesma frente.
 
 
 ## Pontos Positivos
