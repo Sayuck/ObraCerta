@@ -20,8 +20,7 @@ Para essa terceira sprint planejamos pagar as dívidas da sprint 2 e implementar
 
 [Kess](https://github.com/kessJhones), [Pedro](https://github.com/Pedrok99) e [Samuel](https://github.com/SamuelNoB) 
 
-
-[Matheus](https://github.com/Matheus73), [Roberto](https://github.com/Sayuck), [Igor](https://github.com/igorq937) e [Pedro](https://github.com/Pedrok99)
+[Matheus](https://github.com/Matheus73), [Igor](https://github.com/igorq937) e [Samuel](https://github.com/SamuelNoB) 
 
 [Samuel](https://github.com/SamuelNoB) e [Igor](https://github.com/igorq937) 
 
