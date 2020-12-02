@@ -1,7 +1,7 @@
 # Obra Certa
 
 
-## Proposta
+# Proposta
 
 ## Resumo do projeto:  
 
@@ -163,6 +163,14 @@ O próprio produto final proposto na disciplina de requisitos.
 ## Quais serão os resultados gerados? 
 
 * Um cronograma baseado no tempo em que a equipe possui para o desenvolvimento do projeto.
+
+
+<br/>
+
+### Referêcias:
+- [CarDefense](https://fga-eps-mds.github.io/2018.2-CarDefense/docs/index.html)
+- [KALKULI](https://fga-eps-mds.github.io/2018.2-Kalkuli/)
+
 
 <br/>
 <br/>
