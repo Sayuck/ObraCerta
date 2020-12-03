@@ -12,6 +12,10 @@ O módulo `Database` é onde ficam armazenadas as `migrations` do banco de dados
 O módulo `tests` é onde ficam armazenados os testes automatizados unitários e de integração os quais são usados apenas durante a fase de desenvolvimento, mas podendo também ser utilizados para o trabalho de integração contínua.
 
 
+![Classe UML](https://user-images.githubusercontent.com/50925505/101095117-337e0800-359c-11eb-98d0-779d3cb02d91.png)
+
+
+
 - [Inicio](/index.md)
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
