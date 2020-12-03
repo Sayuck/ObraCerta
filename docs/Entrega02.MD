@@ -23,6 +23,8 @@
   No geral, tive uma boa experiencia com o trabalho em si e com as relações em grupo. Apesar das dificuldades, creio que a experiencia adquirida neste projeto foi de grande utilidade para o meu aprendizado.
     
   - Samuel: 
+
+  Foi bastante complicado mas também muito positivo. De inicio me senti perdido na fase de organização, uma vez que o grupo não tinha uma compreensão clara de como se aplicar corretamente as ferramentas da Engenharia de Software. Com o andamento do projeto fui entendendo aos poucos a necessidade: do planejamento e gerenciamento do projeto; da validação de requisitos; da comunicação interpessoal e da validação do que foi feito.
     
   - Igor: 
 
@@ -49,7 +51,8 @@
   Sem dúvida comunicação e trabalho em equipe foram um dos aprendizados mais importartes deste projeto. Aprendi também muitas tecnologias, ferramentas e suas maneiras de utilização (node, trello, figma, brModelo, etc...). Obtive bastante experiencia com bancos de dados. Também tive uma boa noção da importancia dos artefatos gerados no projeto.
     
   - Samuel: 
-    
+
+  Adquiri bastante conhecimento técnico em Javascript junto ao node e tambem na construição de APIs utilizando o padrão REST. Também aprendi o essencial de como usar o Scrum para o desenvolvimento de um projeto e como a equipe deve se organizar utlizando essa ferramenta.
   - Igor: 
   
   Adiquiri conhecimentos sobre: o funcionamento entre uma aplicação dividida em fron-end e back-end; linguagem javascript e bibliotecas que estão sendo utilizadas atualmente. Adiquiri conhecimentos sobre o funcionamento de desenvolvimento de software e a importancia de cada disciplina envolvida. 
@@ -76,8 +79,12 @@
   A divisão entre front e back-end se mostrou uma escolha não muito boa do meio para o final do projeto, dificultando bastante a integração entre as frentes. O aumento da comincatividade entre as frentes fez com que esse problema diminuisse consideravelmente.
   No inicio do projeto a comunicação foi fraca e algumas escolhas geraram discussões que acabaram atrasando um pouco o inicio do projeto, porém com discussões maduras chegamos a um consenso.
 
-  - Samuel: 
-    
+  - Samuel:
+
+  As maiores dificuldades encontradas foram saber ouvir meus companheiros de trabalho e também ceder quando é necessário. Outras dificuldades encontrada foram saber comunicar corretamente com a outra parte da equipe. 
+
+  Quanto a parte teórica, tivemos dificuldades no levantamento de requisitos, criação de histórias de usuários e separação de tarefas. Sendo isso solucionado após procurar explicações sobre os assuntos e buscar esclarecimentos com o professor. 
+
   - Igor: 
   
   Tive difuculdades em integrar o front-end com o back-end, o que foi solucionado com ajuda da equipe, além do cumprimento das ulimas issues no tempo definido.
