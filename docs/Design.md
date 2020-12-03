@@ -14,7 +14,19 @@ O módulo `tests` é onde ficam armazenados os testes automatizados unitários e
 
 ![Classe UML](https://user-images.githubusercontent.com/50925505/101095117-337e0800-359c-11eb-98d0-779d3cb02d91.png)
 
+## Design da aplicação
 
+No módulo `components` ficam localizado o menor elemento da aplicação, esse são retulizaveis em um ou mais páginas, como botões, links e mensagens de alerta.
+
+No módulo `pages` ficam localizados o codigo responsável pela exibição do conteudo e do uso dos componentes.
+
+No módulo `routes` está localizado as rotas para encaminhar para qualquer página da aplicação.
+
+No módulo `styles` fica localizado os estilso globais da aplicação apesar de cada page e components carregar seu própio estilo, porém, tratando-se de estilos que não se encontra na maioria das páginas.
+
+No `services` há funções que fazem requisições fora da aplicação.
+
+No `assets` ficam armazenado os arquivos utilizados na aplicação.
 
 - [Inicio](/index.md)
 - [Apresentação](/Apresentacao.MD)
