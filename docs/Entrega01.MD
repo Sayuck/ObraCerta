@@ -135,6 +135,7 @@ Na primeira sprint ficamos responsáveis (Eu, Samuel e Roberto) pela criação d
 - [Fluxograma](/Fluxograma.MD)
 - [Backlog](/Backlog.MD)
 - [ModelagemBD](/DER-DLD.MD)
+- [Design](/Design.md)
 - Entrega01
 - [Plaining Sprint 1](/Plaining_Sprint1.MD)
 - [Review Sprint 1](/Review01.MD)

@@ -93,6 +93,7 @@ Não houveram
 - [Fluxograma](/Fluxograma.MD)
 - [Backlog](/Backlog.MD)
 - [ModelagemBD](/DER-DLD.MD)
+- [Design](/Design.md)
 - [Entrega01](/Entrega01.MD)
 - Plaining Sprint 1
 - [Review Sprint 1](/Review01.MD)

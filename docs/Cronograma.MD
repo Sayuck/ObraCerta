@@ -26,6 +26,7 @@ O backlog da sprint foi decidido que será montado durante a planning da equipe,
 - [Fluxograma](/Fluxograma.MD)
 - [Backlog](/Backlog.MD)
 - [ModelagemBD](/DER-DLD.MD)
+- [Design](/Design.md)
 - [Entrega01](/Entrega01.MD)
 - [Plaining Sprint 1](/Plaining_Sprint1.MD)
 - [Review Sprint 1](/Review01.MD)

@@ -71,6 +71,7 @@ Com isso mudamos um pouco nossa organização para um melhor desempenho, dessa f
 - [Fluxograma](/Fluxograma.MD)
 - [Backlog](/Backlog.MD)
 - [ModelagemBD](/DER-DLD.MD)
+- [Design](/Design.md)
 - [Entrega01](/Entrega01.MD)
 - [Plaining Sprint 1](/Plaining_Sprint1.MD)
 - [Review Sprint 1](/Review01.MD)
