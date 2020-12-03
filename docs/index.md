@@ -47,7 +47,8 @@
 
 ------
 
-![Pedregal](https://avatars1.githubusercontent.com/u/49600484?s=400&u=ad5d9200becfdaf0208f6ad33d49ecd728248367&v=4)
+![Pedregal](https://user-images.githubusercontent.com/50925505/101095805-41805880-359d-11eb-83f2-66c09219de24.jpg)
+
 ## [Kess Jhones G. Tavares - Back-end Developer](https://github.com/kessJhones)
 
 --------
