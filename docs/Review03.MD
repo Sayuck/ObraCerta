@@ -4,7 +4,7 @@ Review geral
 
 O grupo se esforçou muito para conseguir fazer as sprints 3 e 4 de uma única vez além de pagar as dívidas da sprint 2, já que no nosso cronograma acreditávamos que a entrega final seria dia 08/12/2020.
 
-Infelizmente tivemos que abdicar de alguns recursos devido ao tempo para a entrega final do projeto, com isso ficou de fora do escopo inicial a possibilidade de cadastrar projetos e um sistema de recuperação de senha automática.
+Infelizmente tivemos que abdicar de alguns recursos devido ao tempo para a entrega final do projeto, com isso ficou de fora do escopo inicial a possibilidade de cadastrar projetos, um sistema de recuperação de senha automática e a possibilidade de excluir usuário mesmo que completa por parte do back-end não foi possível integrá-la ao front-end.
 
 </p>
 
@@ -50,7 +50,7 @@ Tivemos dificuldade de fazer requisições com imagens, nossa falta de experiên
   
 ## Pontos Negativos
 
-- Pressão psicológica pela falta de tempo para terminar o projeto, culpa do ET.
+- Pressão psicológica pela falta de tempo para terminar o projeto.
 - Ter que tirar funcionalidade do escopo por falta de tempo.
 
 

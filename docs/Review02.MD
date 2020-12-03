@@ -32,7 +32,7 @@ Criar endpoint para o cadastro de publicações de serviços já prestados.|Conc
 <br/>
 <br/>
 
-Pontos Planejados Concluídos: 53
+Pontos Planejados Concluídos: 43
 
 Pontos de Dívida Concluídos:  0   
 
