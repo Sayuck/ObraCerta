@@ -85,6 +85,7 @@ Duas dívidas por parte do front-end #US02 e #US03: 10 pontos.
 
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
+- [Tecnologias](/Tecnologias.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)

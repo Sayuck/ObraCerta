@@ -60,6 +60,7 @@ Tivemos dificuldade de fazer requisições com imagens, nossa falta de experiên
 
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
+- [Tecnologias](/Tecnologias.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)

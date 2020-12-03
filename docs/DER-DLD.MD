@@ -161,6 +161,7 @@ Cardinalidade: 1 : n
 - [Inicio](/index.md)
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
+- [Tecnologias](/Tecnologias.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)

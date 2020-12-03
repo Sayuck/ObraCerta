@@ -86,6 +86,7 @@ Não houveram
 
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
+- [Tecnologias](/Tecnologias.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)

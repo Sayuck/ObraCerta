@@ -66,6 +66,7 @@ Para otimização da produtividade da equipe e gestão do conhecimento, faremos 
 - [Inicio](/index.md)
 - [Apresentação](/Apresentacao.MD)
 - Metodologia
+- [Tecnologias](/Tecnologias.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)

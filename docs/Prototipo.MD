@@ -11,6 +11,7 @@
 - [Inicio](/index.md)
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
+- [Tecnologias](/Tecnologias.MD)
 - [Requisitos](/Requisitos.MD)
 - Protótipo
 - [Cronograma](/Cronograma.MD)

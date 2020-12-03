@@ -181,6 +181,7 @@ O próprio produto final proposto na disciplina de requisitos.
 - [Inicio](/index.md)
 - Apresentação
 - [Metodologia](/Metodologia.MD)
+- [Tecnologias](/Tecnologias.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)

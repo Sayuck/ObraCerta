@@ -118,12 +118,6 @@ Criei alguns componentes como os inputs, o footer, e as validações dos formul�
 Na primeira sprint ficamos responsáveis (Eu, Samuel e Roberto) pela criação do Diagrama Entidade-Relacionamento do banco de dados e também da sua implementação completa utilizando o node. 
 
 
-Sprint 2
-15/11 - 22/11
-
-## Roberto Nóbrega
-
-Nessa segunda sprint fiz a página Sobre - onde pode-se encontrar uma breve descrição da motivação e do porque do projeto além do contado dos membros do projeto, e fiz os testes manuais para testar o cadastro e login.
 
 <br/>
 <br/>
@@ -134,6 +128,7 @@ Nessa segunda sprint fiz a página Sobre - onde pode-se encontrar uma breve desc
 - [Inicio](/index.md)
 - [Apresentação](/Apresentacao.MD)
 - [Metodologia](/Metodologia.MD)
+- [Tecnologias](/Tecnologias.MD)
 - [Requisitos](/Requisitos.MD)
 - [Protótipo](/Prototipo.MD)
 - [Cronograma](/Cronograma.MD)
