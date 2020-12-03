@@ -32,6 +32,7 @@ Para essa terceira sprint planejamos pagar as dívidas da sprint 2 e implementar
 |:----------------:|:-----------:|:----------------:|
 |Eu como usuário quero realizar publicações de serviços que eu já prestei, para que outras pessoas possam ver meu trabalho e possam me contratar|5|**Todos**
 |Eu como usuário gostaria de comentar as publicações de terceiros para que eu possa interagir com eles|5|**Todos**
+|Eu como usuário gostaria de poder avaliar profissionais|5|[Matheus](https://github.com/Matheus73), [Roberto](https://github.com/Sayuck) e [Igor](https://github.com/igorq937) 
 |Como usuário, eu gostaria de possuir um Perfil onde eu possa terminar de inserir minhas informações e possa edita-las a qualquer momento|5|**Todos**
 |Inserir na tabela de usuário um campo com a resposta de uma pergunta de segurança e tambem um campo para a descrição de uma publicação de servico|4|[Kess](https://github.com/kessJhones)
 |Criar endpoint para editar as informações já criadas e inserir novas que não foram adicionadas no cadastro|3|[Pedro](https://github.com/Pedrok99)
@@ -47,7 +48,7 @@ Para essa terceira sprint planejamos pagar as dívidas da sprint 2 e implementar
 
 ### Dívidas    
 
-Duas dívidas por parte do front-end #US02 e #US03: 10 pontos.
+Duas dívidas por parte do front-end: 15 pontos.
 
 ### Issues Acrescentadas Durante a Sprint 03
 

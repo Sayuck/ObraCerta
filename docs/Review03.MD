@@ -4,7 +4,7 @@ Review geral
 
 O grupo se esforçou muito para conseguir fazer as sprints 3 e 4 de uma única vez além de pagar as dívidas da sprint 2, já que no nosso cronograma acreditávamos que a entrega final seria dia 08/12/2020.
 
-Infelizmente tivemos que abdicar de alguns recursos devido ao tempo para a entrega final do projeto, com isso ficou de fora do escopo inicial a possibilidade de cadastrar projetos, um sistema de recuperação de senha automática e a possibilidade de excluir usuário mesmo que completa por parte do back-end não foi possível integrá-la ao front-end.
+Infelizmente tivemos que abdicar de alguns recursos devido ao tempo para a entrega final do projeto, com isso ficou de fora do escopo inicial a possibilidade de cadastrar projetos, um sistema de recuperação de senha automática e o sistema de avaliação dos usuários mesmo que estivesse completa por parte do back-end não foi possível integrá-la ao front-end.
 
 </p>
 
@@ -14,6 +14,7 @@ Infelizmente tivemos que abdicar de alguns recursos devido ao tempo para a entre
 | :-----: | :------: | :----: |
 |Eu como usuário quero realizar publicações de serviços que eu já prestei, para que outras pessoas possam ver meu trabalho e possam me contratar|Concluído|5|
 |Eu como usuário gostaria de comentar as publicações de terceiros para que eu possa interagir com eles|Concluído|5|
+|Eu como usuário gostaria de poder avaliar profissionais|Cancelado|5|
 |Como usuário, eu gostaria de possuir um Perfil onde eu possa terminar de inserir minhas informações e possa edita-las a qualquer momento|Concluído|5|
 |Inserir na tabela de usuário um campo com a resposta de uma pergunta de segurança e tambem um campo para a descrição de uma publicação de servico|Cancelado|4|
 |Criar endpoint para editar as informações já criadas e inserir novas que não foram adicionadas no cadastro|Concluído|3|
@@ -30,7 +31,7 @@ Pontos Planejados Concluídos: 21
 
 Pontos de Dívida Concluídos:  10   
 
-Pontos Não Agregados: 11
+Pontos Não Agregados: 16
 
 
 # Retrospectiva

@@ -20,7 +20,7 @@ Criar endpoint para o cadastro de publicações de serviços já prestados.|Conc
 |Criar endpoint para excluir uma publicação|Concluído|4|
 |Eu como usuário gostaria de comentar as publicações de terceiros para que eu possa interagir com eles|Pendente|5|
 |criar casos de testes para o Publication controller|Concluído|4|
-|Eu como usuário gostaria de poder avaliar profissionais|Concluído|5|
+|Eu como usuário gostaria de poder avaliar profissionais|Pendente|5|
 |Criar um endpoint de nova avaliação|Concluído|4|
 |Criar endpoint para visualizar media de avaliação de UM usuário.|Concluído|4|
 |Criar endpoint para atualização da nota da avaliação.|Concluído|4|
@@ -32,7 +32,7 @@ Criar endpoint para o cadastro de publicações de serviços já prestados.|Conc
 <br/>
 <br/>
 
-Pontos Planejados Concluídos: 43
+Pontos Planejados Concluídos: 38
 
 Pontos de Dívida Concluídos:  0   
 
