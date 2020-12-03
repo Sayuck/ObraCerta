@@ -4,17 +4,19 @@
 
 * USUARIO
 * PUBLICACAO
+* IMAGEM
 * COMENTARIO
-* PROJETO
 * AVALIACAO
+* PROJETO
 
 ## Atributos:
 
-* USUARIO (<ins>idUsuario</ins>, email, nomeCompleto, criadoEm, telefone)
-* PUBLICACAO (<ins>idPublicacao</ins>, idUsuario, {imagem}, pubCriadaEm)
-* PROJETO (<ins>idProjeto</ins>, tituloProjeto, imagemProjeto, descricaoProjeto, idProprietario)
+* USUARIO (<ins>idUsuario</ins>, email, nomeCompleto, criadoEm, telefone, hashSenha, localidade, categoria, imagemPerfil, descricao, respDeSeguranca)
+* PUBLICACAO (<ins>idPublicacao</ins>, descricao, idUsuario, pubCriadaEm)
+* IMAGEM (<ins>idImagem</ins>, nomeImagem, url, idPublicacao)
+* COMENTARIO (<ins>idComentario</ins>, idUsuario, idDono, conteudo, comentarioCriadoEm)
 * AVALIACAO (<ins>idAvaliacao</ins>, idAvaliador, idAvaliado, nota)
-* COMENTARIO (<ins>idComentario</ins>, idUsuario, idPublicacao, conteudo, comentarioCriadoEm)
+* PROJETO (<ins>idProjeto</ins>, tituloProjeto, imagemProjeto, descricaoProjeto, idProprietario, localidaProjeto, descricaoProjeto)
 
 ## Relacionamentos:
 
@@ -59,11 +61,11 @@ Cardinalidade: 1 : n
 
 # Diagrama Entidade-Relacionamento - DE-R
 
-![ME-R Krimps](https://user-images.githubusercontent.com/50925505/100556590-21d9ef00-3282-11eb-872e-5986a182056a.png)
+![ConceitualObraCerta](https://user-images.githubusercontent.com/50925505/101090826-03cc0180-3596-11eb-8d81-418d12e98af5.png)
 
 # Diagrama Lógico de Dados - DLD
 
-![Logico-Krimps](https://user-images.githubusercontent.com/50925505/100556618-52ba2400-3282-11eb-9cf9-861718c6259b.png)
+![logico_ObraCerta](https://user-images.githubusercontent.com/50925505/101090846-0d556980-3596-11eb-871a-1d3b29553e67.png)
 
 <br/>
 <br/>
