@@ -32,7 +32,7 @@ Diferente das demais sprints, o grupo optou por um sprint maior (2x o tempo de u
 <br/>
 <br/>
 
-Pontos Planejados Concluídos: 51
+Pontos Planejados Concluídos: 56
 
 Pontos de Dívida Concluídos:  0   
 

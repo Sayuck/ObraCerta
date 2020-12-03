@@ -25,6 +25,10 @@
 
 [Winscall](https://whimsical.com)
 
+## Criação de Gráficos e Diagramas
+
+[Lucidchart](www.lucidchart.com)
+
 
 ## Ferramenta de simulação de requisição
 
