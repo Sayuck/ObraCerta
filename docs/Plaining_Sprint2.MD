@@ -12,7 +12,7 @@
 
 **Duração:** 7 dias   
 
-## Pareamentos   
+## Pareamentos via live share e Discord
 
 [Matheus](https://github.com/Matheus73), [Roberto](https://github.com/Sayuck) e [Igor](https://github.com/igorq937) 
 

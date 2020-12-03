@@ -14,7 +14,7 @@ Para essa terceira sprint planejamos pagar as dívidas da sprint 2 e implementar
 
 **Duração:** 7 dias   
 
-## Pareamentos   
+## Pareamentos via live share e Discord
 
 [Matheus](https://github.com/Matheus73), [Roberto](https://github.com/Sayuck), [Igor](https://github.com/igorq937) e [Pedro](https://github.com/Pedrok99)
 

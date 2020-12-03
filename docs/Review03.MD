@@ -35,7 +35,11 @@ Pontos Não Agregados: 11
 
 # Retrospectiva
 
-Com 
+A comunicação e a interação do grupo melhorou ainda mais e o grupo conseguiu sair de sua frente, com isso todos puderam experimentar tanto front quanto back.
+
+Nos esforçamos ao máximo e demos foco total ao aplicativo, porém mesmo assim não conseguimos implementar tudo que gostaríamos e que estavam no escopo original.
+
+Tivemos dificuldade de fazer requisições com imagens, nossa falta de experiência dificultou também a realização do deploy, porém ainda assim conseguimos concluir essas tarefas.
 
 
 
@@ -46,7 +50,7 @@ Com
   
 ## Pontos Negativos
 
-- Pressão psicológica pela falta de tempo para terminar o projeto.
+- Pressão psicológica pela falta de tempo para terminar o projeto, culpa do ET.
 - Ter que tirar funcionalidade do escopo por falta de tempo.
 
 

@@ -12,7 +12,7 @@ A equipe decidiu que nessa primeira sprint que começariamos com a #US01 onde cr
 
 **Duração:** 14 dias   
 
-## Pareamentos   
+## Pareamentos via live share e Discord
 
 [Matheus](https://github.com/Matheus73), [Roberto](https://github.com/Sayuck) e [Igor](https://github.com/igorq937) 
 
